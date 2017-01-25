@@ -1,8 +1,8 @@
 ## Getting and cleaning data - Assignment code
 
 ## This script merges data from a number of .txt files and produces 
-## a tidy data set which may be used for further analysis.
-## Make sure that we set the working directory accordingly
+## a tidy data set which may be used for further analysis
+## Download and unzip the dataset and set the working directory accordingly
 
 
         ## Open required libraries ( to use the melt and cast functions )
